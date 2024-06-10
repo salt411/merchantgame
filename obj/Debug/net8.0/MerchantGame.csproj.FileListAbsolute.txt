@@ -1,0 +1,14 @@
+C:\Users\zfrie\Merchant Game\MerchantGame\bin\Debug\net8.0\MerchantGame.exe
+C:\Users\zfrie\Merchant Game\MerchantGame\bin\Debug\net8.0\MerchantGame.deps.json
+C:\Users\zfrie\Merchant Game\MerchantGame\bin\Debug\net8.0\MerchantGame.runtimeconfig.json
+C:\Users\zfrie\Merchant Game\MerchantGame\bin\Debug\net8.0\MerchantGame.dll
+C:\Users\zfrie\Merchant Game\MerchantGame\bin\Debug\net8.0\MerchantGame.pdb
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.AssemblyInfoInputs.cache
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.AssemblyInfo.cs
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.csproj.CoreCompileInputs.cache
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.dll
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\refint\MerchantGame.dll
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.pdb
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\MerchantGame.genruntimeconfig.cache
+C:\Users\zfrie\Merchant Game\MerchantGame\obj\Debug\net8.0\ref\MerchantGame.dll
